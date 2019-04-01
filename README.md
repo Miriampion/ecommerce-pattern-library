@@ -27,9 +27,11 @@ View the website at Netlify:
 ## Collaborators
 
 - [@sander-aaron](https://github.com/sander-aaron)
+- [@jowens96](https://github.com/jowens96)
 
 ---
 
 ## Google Doc link for reference
 
 - https://docs.google.com/document/d/1-lJAWHaoy2vMt_H6VR97DZDoGZFtLfvlMJpgvikCKNQ/edit?usp=sharing
+- https://drive.google.com/drive/folders/168V6Me5n2V7BhktLGn1kLhbekk8_Byb9?usp=sharing
